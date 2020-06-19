@@ -4,4 +4,4 @@ This repository contains two solutions with sample code demonstrating the FileOp
 
 All three Pickers in the UWP sample solution work as expected. However, all three Pickers in the WinUI3 Desktop sample solution break and close the application.
 
-For more details about the WinUI issue, go to the issue [here](** Insert link here **). 
+For more details about the WinUI issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/2716). 
